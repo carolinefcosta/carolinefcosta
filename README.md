@@ -1,5 +1,5 @@
 <div align="center">
-  💞 Olá! eu sou a Caroline Fernandes 💞
+  <h1>💞 Olá! eu sou a Caroline Fernandes 💞</h1>
 </div><br>
 
 <div align="center">
