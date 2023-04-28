@@ -2,6 +2,11 @@
   <h1>💞 Olá! eu sou a Caroline Fernandes 💞</h1>
 </div><br>
 
+<div align='center'>
+  <p>🌞 Moro em Natal/RN.</p>
+  <p>👩‍💻 Hoje me encontro apaixonada pela área de progamação,<br> atualmente estou em transição de carreira e estudo Desenvolvimento Web na Trybe,<br> realizando projetos reais e utilizando várias tecnologias.</p>
+</div>
+
 <div align="center">
   <a href="https://github.com/carolinefcosta">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=carolinefcosta&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
