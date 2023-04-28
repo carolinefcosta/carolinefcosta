@@ -3,10 +3,10 @@
 </div><br>
 
 <div align='center'>
-  <p>🌞 Moro em Natal/RN.</p>
-  <p>👩‍💻 Hoje me encontro apaixonada pela área de progamação,<br> atualmente estou em transição de carreira e estudo Desenvolvimento Web na Trybe,<br> realizando projetos reais e utilizando várias tecnologias.</p>
+  <div>🌞 Moro em Natal/RN.</div>
+  <div>👩‍💻 Hoje me encontro apaixonada pela área de progamação,<br> atualmente estou em transição de carreira e estudo Desenvolvimento Web na Trybe,<br> realizando projetos reais e utilizando várias tecnologias.</div>
 </div>
-
+<br>
 <div align="center">
   <a href="https://github.com/carolinefcosta">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=carolinefcosta&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
@@ -15,6 +15,7 @@
 </div>
 </div>
 <div align="center" valign="top"><br>
+  <div align='center'>👇 Linguagens, Tecnologias e Ferramentas que conheço e estudo:</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML">
   <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS">
