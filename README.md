@@ -3,7 +3,7 @@
 </div><br>
 
 <div align='center'>
-  <div>🌞 Moro em Natal/RN.</div>
+  <div>🌞 Moro em São Gonçalo do Amarante/RN.</div>
   <div>👩‍💻 Hoje me encontro apaixonada pela área de progamação,<br> atualmente estou em transição de carreira e estudo Desenvolvimento Web na Trybe,<br> realizando projetos reais e utilizando várias tecnologias.</div>
 </div>
 <br>
